@@ -92,6 +92,7 @@ h1, h2, h3, h4, h5, h6{
 
 .icon:hover{
     color: #ff4c68;
+    transition: .5s;
 }
 
 .features-text{
